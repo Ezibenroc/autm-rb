@@ -13,19 +13,6 @@ stackoverflow: "http://stackoverflow.com/users/4110059/tom-cornebize" #Add your 
 twitter: "https://twitter.com/TomCornebize"  #Add your twitter url here.
 linkedin: "https://fr.linkedin.com/in/tomcornebize"
 
-#disqus comment
-# disqus:
-#     shortname: "test" #replace with your disqus comment short name
-
-#google analytics
-# google:
-#     tracking-id: "" #paste your tracking id here
-# gems:
-#   - jekyll-sitemap
-
-# This is used by feed.xml. Uncomment if you want to use it.
-# description: "..."
-
 exclude:
   - "README.md"
   - "CHANGELOG.md"
