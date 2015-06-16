@@ -4,6 +4,9 @@ permalink: "publications/index.html"
 layout: default
 ---
 
-# This is a test
+## Efficient and Generalized Decentralized Monitoring of Regular Languages
+Y. Falcone, T. Cornebize, J-C. Fernandez
 
-This is a [link](http://google.com), does it work?
+In 34th IFIP International Conference on Formal Techniques for Distributed Objects (FORTE'14).
+
+A technical report is freely downloadable on [HAL](https://hal.archives-ouvertes.fr/hal-00972559).
