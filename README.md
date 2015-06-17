@@ -1,30 +1,7 @@
-# Autm-rb
+# [Autm-rb](https://github.com/railsr/autm-rb)
 
 Another theme for jekyll.
 based on shiori and midnight
-
-##[DEMO][demo]
-
-features:
-
-- sharebuttons
-- comments via DISQUS
-- google analitics
-- pagination
-- tags
-- codehighlighting
-- bootstrap components
-- font awesome
-- responsive
-- embeded video support
-
-#### Contribution
-Pull Requests always welcome.
-
-## Screens
-
-![](http://i.imgur.com/i1OZoFF.png)
-![](http://i.imgur.com/oc2ZfjH.png)
 
 ## Installation
 
@@ -35,8 +12,8 @@ Pull Requests always welcome.
 
 ## Customization
 
-Edit this files before using 
- 
+Edit this files before using
+
 - _config.yml REQUIRED
 - /index.html - change the default image and email
 - /projects.html - here you can share some of your projects
