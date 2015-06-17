@@ -1,5 +1,5 @@
 ---
-title: publications
+title: Publications
 permalink: "publications/index.html"
 layout: default
 ---
