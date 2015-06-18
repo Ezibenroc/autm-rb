@@ -28,7 +28,7 @@ Several heuristics proposed, including Watched Literals and Clause Learning.
 
 ## Simplex <a id="git-ic" href="https://github.com/Ezibenroc/simplex"><i class="fa fa-github" style="font-size:0.5em;"></i></a>
 
-A solver for linear programs, using the simplex algorithms, written in Python.
+A solver for linear programs, using the simplex algorithm, written in Python.
 
 Two possible data structures: dense matrix or sparse matrix.
 
