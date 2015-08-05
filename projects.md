@@ -4,7 +4,7 @@ permalink: "projects/index.html"
 layout: default
 ---
 
-## Projet Pensées Profondes <a id="git-ic" href="https://github.com/ProjetPP/"><i class="fa fa-github" style="font-size:0.5em;"></i></a>
+## Platypus <a id="git-ic" href="https://github.com/ProjetPP/"><i class="fa fa-github" style="font-size:0.5em;"></i></a>
 
 A modular and open source question answering framework. Initially a team of seven
 students, now an open source project.
