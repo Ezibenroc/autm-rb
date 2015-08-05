@@ -4,7 +4,7 @@ permalink: "about/index.html"
 layout: default
 ---
 
-I am a student in computer science, located between Lyon and Grenoble, in France.
+I am a student in computer science, located in Grenoble (France).
 
 You can find my resume here:
 
@@ -15,7 +15,12 @@ My first steps in CS were at the [Université Joseph Fourier](https://www.ujf-gr
 where I studied for two years mathematics, computer science and a bit of physics.
 
 Then, I went to the [CS department](http://www.ens-lyon.fr/DI/?lang=en) of the
-[École Normale Supérieure de Lyon](http://www.ens-lyon.eu/ens-de-lyon-accueil-gb-78426.kjsp?RH=ENS-LYON-FR),
-where I studied for two years theoretical computer science, following a curriculum
-driven by and for research. I got a BSc, with great honors, and did the first year
-of my MSc.
+[ENS Lyon](http://www.ens-lyon.eu/ens-de-lyon-accueil-gb-78426.kjsp?RH=ENS-LYON-FR)
+(a.k.a. École Normale Supérieure de Lyon). I studied for two years theoretical
+computer science, following a curriculum driven by and for research. I got a BSc
+degree in computer science, with great honors, and did the first year of a MSc in
+computer science.
+
+Now, I am pursuing a MSc degree in computer science at [Ensimag](http://ensimag.grenoble-inp.fr/welcome/)
+(a.k.a. Superior National School of Applied Mathematics and Computer Science).
+I am specializing in [Information Systems Engineering](http://ensimag.grenoble-inp.fr/curriculum/information-systems-engineering-240318.kjsp?RH=1228477151490).
