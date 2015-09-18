@@ -5,6 +5,7 @@ based on shiori and midnight
 
 ## Installation
 
+- Install the dependencies: `aptitude install ruby-dev zlib1g-dev nodejs`
 - [Fork this repository][fork]
 - Clone it: `git clone https://github.com/YOUR-USER/autm-rb`
 - Install the [GitHub Pages gem][pages] (includes Jekyll): `bundle install`
