@@ -21,6 +21,6 @@ computer science, following a curriculum driven by and for research. I got a BSc
 degree in computer science, with great honors, and did the first year of a MSc in
 computer science.
 
-Now, I am pursuing a MSc degree in computer science at [Ensimag](http://ensimag.grenoble-inp.fr/welcome/)
+Now, I am pursuing an engineering degree in computer science at [Ensimag](http://ensimag.grenoble-inp.fr/welcome/)
 (a.k.a. Superior National School of Applied Mathematics and Computer Science).
 I am specializing in [Information Systems Engineering](http://ensimag.grenoble-inp.fr/curriculum/information-systems-engineering-240318.kjsp?RH=1228477151490).
