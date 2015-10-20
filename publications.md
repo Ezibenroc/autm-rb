@@ -4,7 +4,7 @@ permalink: "publications/index.html"
 layout: default
 ---
 
-## Efficient and Generalized Decentralized Monitoring of Regular Languages
+## <a name="forte14"></a> Efficient and Generalized Decentralized Monitoring of Regular Languages
 Y. Falcone, T. Cornebize, J-C. Fernandez
 
 In 34th IFIP International Conference on Formal Techniques for Distributed Objects (FORTE'14).
